@@ -1,23 +1,13 @@
 [
     {
-        "name": "MLPP",
-        "type": 1,
-        "url": "https://raw.githubusercontent.com/TheElderFallouts/wwbtp/master/PP"
-    },
-    {
-        "name": "TEF",
-        "type": 1,
-        "url": "https://raw.githubusercontent.com/TheElderFallouts/bjstf/master/PP"
-    },
-    {
         "name": "Roman Empire",
         "type": 1,
         "url": "https://raw.githubusercontent.com/crittografia/mapconfig/master/PP"
     },
     {
-        "name": "BosniaPPF",
+        "name": "MLPP",
         "type": 1,
-        "url": "https://raw.githubusercontent.com/Catalyy/BosniaPPF/master/PP"
+        "url": "https://raw.githubusercontent.com/TheElderFallouts/wwbtp/master/PP"
     },
     {
         "name": "Others",
