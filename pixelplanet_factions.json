@@ -5,9 +5,19 @@
         "url": "https://raw.githubusercontent.com/crittografia/mapconfig/master/PP"
     },
     {
+        "name": "TEF",
+        "type": 1,
+        "url": "https://raw.githubusercontent.com/TheElderFallouts/bjstf/master/PP"
+    },
+    {
         "name": "MLPP",
         "type": 1,
         "url": "https://raw.githubusercontent.com/TheElderFallouts/wwbtp/master/PP"
+    },
+    {
+        "name": "BosniaPPF",
+        "type": 1,
+        "url": "https://raw.githubusercontent.com/Catalyy/BosniaPPF/master/PP"
     },
     {
         "name": "Others",
